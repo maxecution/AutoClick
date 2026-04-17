@@ -2,6 +2,8 @@
 
 A powerful, template-based screen auto-clicker with image recognition. Define a template image of what you want to click, and AutoClick will automatically find and click it repeatedly on your screen.
 
+<img width="642" height="792" alt="AutoClick Screenshot" src="https://github.com/user-attachments/assets/1a14cd9b-0bdb-4ed0-9c52-1004266d89dd" />
+
 ## Features
 
 - 🎯 **Image Recognition**: Uses OpenCV to find and match template images on screen
